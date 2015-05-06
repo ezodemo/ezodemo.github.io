@@ -1,46 +1,46 @@
 [{
-    "label": 'Games',
+    "label": "Games",
     "data": [
-      ['Games', 32]
+      ["Games", 32]
     ]
   }, {
-    "label": 'Facebook',
+    "label": "Facebook",
     "data": [
-      ['Facebook', 17]
+      ["Facebook", 17]
     ]
   }, {
-    "label": 'Browser',
+    "label": "Browser",
     "data": [
-      ['Browser', 14]
+      ["Browser", 14]
     ]
   }, {
-    "label": 'Social Messaging',
+    "label": "Social Messaging",
     "data": [
-      ['Social Messaging', 9.5]
+      ["Social Messaging", 9.5]
     ]
   }, {
-    "label": 'YouTube',
+    "label": "YouTube",
     "data": [
-      ['YouTube', 4]
+      ["YouTube", 4]
     ]
   }, {
-    "label": 'Entertainment',
+    "label": "Entertainment",
     "data": [
-      ['Entertainment', 4]
+      ["Entertainment", 4]
     ]
   }, {
-    "label": 'Utilities',
+    "label": "Utilities",
     "data": [
-      ['Utilities', 8]
+      ["Utilities", 8]
     ]
   }, {
-    "label": 'News',
+    "label": "News",
     "data": [
-      ['News', 3]
+      ["News", 3]
     ]
   }, {
-    "label": 'Other',
+    "label": "Other",
     "data": [
-      ['Other', 8.5]
+      ["Other", 8.5]
     ]
   }]
