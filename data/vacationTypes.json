@@ -1,17 +1,17 @@
 [
 {
-"text":"休假",
+"text":"Annual Leave",
 "value":"V"
 },
 {
-"text":"病假",
+"text":"Sick Leave",
 "value":"D"
 },
 {
-"text":"事假",
+"text":"General Leave",
 "value":"E"
 },
-{"text":"婚假",
+{"text":"Wedding Leave",
  "value":"W"
 }
 ]
